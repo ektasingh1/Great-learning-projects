@@ -1,8 +1,8 @@
 ## Project Objective:-
-We have been provided car_claim_insurance dataset which consists of the characteristics of the customers who have claimed for insurance.
-The company wants to predict the customers who have higher chances of claiming (High risk profile customers) and also about those customers who would be profitable for the company.
-This project requires to present the provided dataset on different dashboards in a logical way and then create a storyboard to cover them all.
-
+We have been provided car_claim_insurance dataset which consists of the characteristics of the customers who have claimed for insurance.  
+The company wants to predict the customers who have higher chances of claiming (High risk profile customers) and also about those customers who would be profitable for the company.  
+This project requires to present the provided dataset on different dashboards in a logical way and then create a storyboard to cover them all.  
+Also provide actionable insights and business recommendations from the provided dataset to support key business decisions. 
 
 ## Data Dictionary :-
 
