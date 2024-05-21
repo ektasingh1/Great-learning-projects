@@ -7,25 +7,25 @@ This project requires to present the provided dataset on different dashboards in
 ## Data Dictionary :-
 
 KIDSDRIV- total no. of kids the car driver has  
-BIRTH- Date of birth
-HOMEKIDS- no. of kids the driver has at home
-YOJ- year in which insurance was taken
-INCOME- income
-PARENT- if the car owner has parent
-HOM_VAL- value of the house owned
-MSTATUS- marital status
-GENDER- male or female
-EDUCATION- education level
-OCCUPATION- occupation level
-TRAVTIME- travel time
-CAR_USE- private or commercial
-BLUEBOOK- worth of car
-CAR_TYPE- car type
-OLDCLAIM- previous claim
-CLM_FREQ- how often claimed
-CLM_AMT- currently claimed amount
-CAR_AGE- age of the car
-URBANCITY- place of car driving
+BIRTH- Date of birth  
+HOMEKIDS- no. of kids the driver has at home  
+YOJ- year in which insurance was taken  
+INCOME- income  
+PARENT- if the car owner has parent  
+HOM_VAL- value of the house owned  
+MSTATUS- marital status  
+GENDER- male or female  
+EDUCATION- education level  
+OCCUPATION- occupation level  
+TRAVTIME- travel time  
+CAR_USE- private or commercial  
+BLUEBOOK- worth of car  
+CAR_TYPE- car type  
+OLDCLAIM- previous claim  
+CLM_FREQ- how often claimed  
+CLM_AMT- currently claimed amount  
+CAR_AGE- age of the car  
+URBANCITY- place of car driving  
 
 
 
