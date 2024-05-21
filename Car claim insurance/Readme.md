@@ -6,7 +6,7 @@ This project requires to present the provided dataset on different dashboards in
 
 ## Data Dictionary :-
 
-KIDSDRIV- total no. of kids the car driver has
+KIDSDRIV- total no. of kids the car driver has  
 BIRTH- Date of birth
 HOMEKIDS- no. of kids the driver has at home
 YOJ- year in which insurance was taken
